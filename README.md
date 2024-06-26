@@ -1,8 +1,8 @@
-plvs_vltra
+PlvsVltra
 ========
 Beautiful scientific data visualization, using color palettes from Spanish and Moroccan tiles
 ------
-<img align="right" src="https://github.com/ctross/DieTryin/blob/master/logo.png" alt="logo" width="200">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/master/logo.png" alt="logo" width="200">
 
 **DieTryin** is an R package designed to facilitate the collection of roster-based network data, and to run network-structured economic games—such as [Recipient Identity-Conditioned Heuristics (RICH) games](http://journals.sagepub.com/doi/abs/10.1177/1525822X16643709?journalCode=fmxd). This is a brief overview of a workflow. For further details on any step, see our full publication in [Behavior Research Methods](https://doi.org/10.3758/s13428-021-01606-5).  For a tutorial on automated data entry, see our publication in [Methodological Innovations](https://journals.sagepub.com/doi/10.1177/20597991231160281).  
 
