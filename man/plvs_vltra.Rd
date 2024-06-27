@@ -4,10 +4,14 @@
 \alias{plvs_vltra}
 \title{plvs_vltra}
 \usage{
-plvs_vltra(palette_name, show = FALSE)
+plvs_vltra(palette_name, rev = FALSE, elements = NULL, show = FALSE)
 }
 \arguments{
 \item{palette_name}{The palette to be selected.}
+
+\item{rev}{Should the palette be reversed?}
+
+\item{elements}{Which elements to pull? Defaults to the full palette.}
 
 \item{show}{Set to TRUE to plot the pallete using "scales".}
 }
