@@ -15,9 +15,13 @@ library(devtools)
 ```
 
 Accessing pre-defined palettes:
+------
 ```{r}
 ################################### Install and/or load
- library(devtools)
-plvs_vltra_palettes("dust_storm")
+library(PlvsVltra)
+plvs_vltra_palettes("dust_storm", show=FALSE)
 ```
-<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/sunken_treasure.png?raw=true" alt="logo" width="150">
+
+Diverging palettes:
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/sunken_treasure.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/forest_fire.png?raw=true" alt="logo" width="850">
