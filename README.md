@@ -19,4 +19,5 @@ Accessing pre-defined palettes:
 ################################### Install and/or load
  library(devtools)
 plvs_vltra_palettes("dust_storm")
+```
 <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/sunken_treasure.png?raw=true" alt="logo" width="150">
