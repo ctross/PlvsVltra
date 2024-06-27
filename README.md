@@ -24,26 +24,27 @@ plvs_vltra_palettes("dust_storm", show=FALSE)
 
 Demonstration: Linear palettes in the South of France.
 ------
-A choropleth map displays divided geographical areas or regions that are coloured in relation to a numeric variable. I use an example from [r-graph-gallery](https://r-graph-gallery.com/choropleth-map.html) to show the sequential or linear palettes.
+A choropleth map displays divided geographical areas or regions that are coloured in relation to a numeric variable. I use an example from [r-graph-gallery](https://r-graph-gallery.com/choropleth-map.html) to show the sequential/linear palettes.
 
-![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_honey_pot.png?raw=true)
+![honey_pot](https://github.com/ctross/PlvsVltra/blob/main/inst/map_honey_pot.png?raw=true)
 
-![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_robin_feathers.png?raw=true)
+![robin_feathers](https://github.com/ctross/PlvsVltra/blob/main/inst/map_robin_feathers.png?raw=true)
 
-![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_summer_clouds.png?raw=true)
+![summer_clouds](https://github.com/ctross/PlvsVltra/blob/main/inst/map_summer_clouds.png?raw=true)
 
 ![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true)
 
 Linear palettes:
 ------
 The linear palettes are:
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/honey_pot.png?raw=true" alt="logo" width="750">  
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/robin_feathers.png?raw=true" alt="logo" width="750">  
+![honey_pot](https://github.com/ctross/PlvsVltra/blob/main/inst/honey_pot.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/summer_clouds.png?raw=true" alt="logo" width="750">  
+![robin_feathers](https://github.com/ctross/PlvsVltra/blob/main/inst/robin_feathers.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/mint_tea.png?raw=true" alt="logo" width="750">  
+![summer_clouds](https://github.com/ctross/PlvsVltra/blob/main/inst/summer_clouds.png?raw=true)
+
+![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/mint_tea.png?raw=true)
 
 Diverging palettes:
 ------
