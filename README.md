@@ -32,7 +32,7 @@ A choropleth map displays divided geographical areas or regions that are coloure
 > <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_summer_clouds.png?raw=true" alt="logo" width="600">  
 
 > <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true" alt="logo" width="600">  
-
+![Please work](https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true)
 
 Linear palettes:
 ------
