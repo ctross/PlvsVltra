@@ -24,13 +24,13 @@ plvs_vltra_palettes("dust_storm", show=FALSE)
 
 Demonstration: Linear palettes in the South of France.
 ------
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_honey_pot.png?raw=true" alt="logo" width="450">  
+> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_honey_pot.png?raw=true" alt="logo" width="400">  
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_robin_feathers.png?raw=true" alt="logo" width="450"> 
+> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_robin_feathers.png?raw=true" alt="logo" width="400"> 
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_summer_clouds.png?raw=true" alt="logo" width="450">  
+> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_summer_clouds.png?raw=true" alt="logo" width="400">  
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true" alt="logo" width="450">  
+> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true" alt="logo" width="400">  
 
 
 Linear palettes:
