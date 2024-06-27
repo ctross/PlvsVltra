@@ -25,14 +25,14 @@ plvs_vltra_palettes("dust_storm", show=FALSE)
 Demonstration: Linear palettes in the South of France.
 ------
 A choropleth map displays divided geographical areas or regions that are coloured in relation to a numeric variable. I use an example from [r-graph-gallery](https://r-graph-gallery.com/choropleth-map.html) to show the sequential or linear palettes.
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_honey_pot.png?raw=true" alt="logo" width="600">  
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_robin_feathers.png?raw=true" alt="logo" width="600"> 
+![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_honey_pot.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_summer_clouds.png?raw=true" alt="logo" width="600">  
+![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_robin_feathers.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true" alt="logo" width="600">  
-![Please work](https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true)
+![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_summer_clouds.png?raw=true)
+
+![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true)
 
 Linear palettes:
 ------
