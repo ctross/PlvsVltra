@@ -24,8 +24,10 @@ Accessing pre-defined palettes:
 ```{r}
 ################################### Install and/or load
 library(PlvsVltra)
-plvs_vltra_palettes("dust_storm", show=FALSE)
+plvs_vltra("dust_storm", rev=FALSE, elements=NULL, show=FALSE)
 ```
+The argument "rev" will reverse the palette order from the images shown below. The argument "elements" gives the subset of colors to pull: e.g., elements=c(1,7), will pull only the first and last elements from a 7-color palette.
+
 
 Creating your own palettes:
 ------
