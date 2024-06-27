@@ -23,5 +23,11 @@ plvs_vltra_palettes("dust_storm", show=FALSE)
 ```
 
 Diverging palettes:
-<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/sunken_treasure.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/skinny_dipping.png?raw=true" alt="logo" width="850">
 <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/forest_fire.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/sunken_treasure.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/desert_skies.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/ocean_sunset.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/coastal_marsh.png?raw=true" alt="logo" width="850">
+
+
