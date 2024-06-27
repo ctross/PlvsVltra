@@ -3,7 +3,7 @@ Title: A package for beautiful color palettes, based on Spanish and Moroccan til
 Version: 0.0.1.01
 Authors@R: person("Cody", "Ross", email = "ctross@ucdavis.edu", role = c("aut", "cre"))
 Description: Load pre-made color palettes, or build your own.
-Imports: imager, scales
+Imports: imager
 License: UNLICENSE
 Encoding: UTF-8
 LazyData: true

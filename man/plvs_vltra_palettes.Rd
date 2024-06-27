@@ -4,12 +4,12 @@
 \alias{plvs_vltra_palettes}
 \title{plvs_vltra_palettes}
 \usage{
-plvs_vltra_palettes(palette_name, show = FALSE)
+plvs_vltra_palettes(palette_name, list_all = FALSE)
 }
 \arguments{
 \item{palette_name}{The palette to be selected.}
 
-\item{show}{Set to TRUE to plot the pallete using "scales".}
+\item{list_all}{Set to TRUE to return all palette names.}
 }
 \value{
 A vector of hex codes.
