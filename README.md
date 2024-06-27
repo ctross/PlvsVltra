@@ -22,6 +22,16 @@ library(PlvsVltra)
 plvs_vltra_palettes("dust_storm", show=FALSE)
 ```
 
+Creating your own palettes:
+------
+You can create your own palettes by running the following:
+```{r}
+################################### Install and/or load
+library(PlvsVltra)
+create_palette(path, n_colors=7)
+```
+where "path" is the location of the image you want to mine for a color palette, and n_colors is the breadth of the color palette. See the tutorial workflow at the end of this readme, to learn about how to use the point-and-click interface.
+
 Demonstration: Linear palettes in the South of France.
 ------
 A choropleth map displays divided geographical areas or regions that are coloured in relation to a numeric variable. I use an example from [r-graph-gallery](https://r-graph-gallery.com/choropleth-map.html) to show the sequential/linear palettes.
@@ -37,7 +47,6 @@ A choropleth map displays divided geographical areas or regions that are coloure
 
 Linear palettes:
 ------
-The linear palettes are:
 
 ![honey_pot](https://github.com/ctross/PlvsVltra/blob/main/inst/honey_pot.png?raw=true)
 
@@ -50,7 +59,7 @@ The linear palettes are:
 
 Diverging palettes:
 ------
-The diverging palettes are:
+
 
 ![sunken_treasure](https://github.com/ctross/PlvsVltra/blob/main/inst/sunken_treasure.png?raw=true)
 
@@ -69,7 +78,7 @@ The diverging palettes are:
 
 Categorical palettes:
 ------
-The categorical palettes are:
+
 
 ![dust_storm](https://github.com/ctross/PlvsVltra/blob/main/inst/dust_storm.png?raw=true)
 
