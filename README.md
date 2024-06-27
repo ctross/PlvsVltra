@@ -8,8 +8,7 @@ Beautiful scientific data visualization, using color palettes from Spanish and M
  
 Installation
 ------
-
-Here we will go through the entire DieTryin workflow.  DieTryin works best on Windows. We note that Mac users may have issues using some interactive functions. If this is the case, installing an older version of imager (e.g., 0.41.1) should resolve the issue as long as the user has X11 installed.
+The package is not on CRAN, so install from GitHub directly:
 ```{r}
 library(devtools)
  install_github('ctross/PlvsVltra')
