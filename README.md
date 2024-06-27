@@ -97,3 +97,11 @@ Categorical palettes:
 
 ![shattered_mosaics](https://github.com/ctross/PlvsVltra/blob/main/inst/shattered_mosaics.png?raw=true)
 
+
+Creating a palette from an image with a point-and click interface.
+------
+When the user runs: create_palette(path, n_colors=7), an interactive window will open inside of R, and there will be "n_colors" grey boxes below the selected image. The draft palette will be visualized here. With each click, a new color will be added to the palette. Once the user has selected n_colors, future clicks will no longer change the palette. From here two options are possible: 1) If the user is satisfied with the palette, they will click the black box to save the stored palette, or 2) If the user wants to redo any colors in the palette, they must first click the color box that they wish to change, and then re-select a color in the source image. This procees can be repeated, until the user is satisfied, and clicks the black box to end.
+
+![load](https://github.com/ctross/PlvsVltra/blob/main/inst/load.jpg?raw=true) ![save](https://github.com/ctross/PlvsVltra/blob/main/inst/save.jpg?raw=true)
+
+
