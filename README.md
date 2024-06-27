@@ -34,6 +34,7 @@ A choropleth map displays divided geographical areas or regions that are coloure
 
 ![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/map_mint_tea.png?raw=true)
 
+
 Linear palettes:
 ------
 The linear palettes are:
@@ -46,30 +47,37 @@ The linear palettes are:
 
 ![mint_tea](https://github.com/ctross/PlvsVltra/blob/main/inst/mint_tea.png?raw=true)
 
+
 Diverging palettes:
 ------
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/skinny_dipping.png?raw=true" alt="logo" width="750">  
+The diverging palettes are:
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/forest_fire.png?raw=true" alt="logo" width="750">  
+![sunken_treasure](https://github.com/ctross/PlvsVltra/blob/main/inst/sunken_treasure.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/sunken_treasure.png?raw=true" alt="logo" width="750">  
+![skinny_dipping](https://github.com/ctross/PlvsVltra/blob/main/inst/skinny_dipping.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/desert_skies.png?raw=true" alt="logo" width="750">  
+![forest_fire](https://github.com/ctross/PlvsVltra/blob/main/inst/forest_fire.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/ocean_sunset.png?raw=true" alt="logo" width="750">  
+![desert_skies](https://github.com/ctross/PlvsVltra/blob/main/inst/desert_skies.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/coastal_marsh.png?raw=true" alt="logo" width="750">  
+![ocean_sunset](https://github.com/ctross/PlvsVltra/blob/main/inst/ocean_sunset.png?raw=true)
+
+![coastal_marsh](https://github.com/ctross/PlvsVltra/blob/main/inst/coastal_marsh.png?raw=true)
+
+
+ 
 
 Categorical palettes:
 ------
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/mystic_mausoleum.png?raw=true" alt="logo" width="750">  
+The categorical palettes are:
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/dust_storm.png?raw=true" alt="logo" width="750">  
+![dust_storm](https://github.com/ctross/PlvsVltra/blob/main/inst/dust_storm.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/golden_riches.png?raw=true" alt="logo" width="750">  
+![dusk_oasis](https://github.com/ctross/PlvsVltra/blob/main/inst/dusk_oasis.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/shattered_mosaics.png?raw=true" alt="logo" width="750">  
+![golden_riches](https://github.com/ctross/PlvsVltra/blob/main/inst/golden_riches.png?raw=true)
 
-> <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/dusk_oasis.png?raw=true" alt="logo" width="750">  
+![mystic_mausoleum](https://github.com/ctross/PlvsVltra/blob/main/inst/mystic_mausoleum.png?raw=true)
 
+![shattered_mosaics](https://github.com/ctross/PlvsVltra/blob/main/inst/shattered_mosaics.png?raw=true)
 
