@@ -30,4 +30,16 @@ Diverging palettes:
 <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/ocean_sunset.png?raw=true" alt="logo" width="850">
 <img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/coastal_marsh.png?raw=true" alt="logo" width="850">
 
+Linear palettes:
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/honey_pot.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/robin_feathers.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/summer_clouds.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/mint_tea.png?raw=true" alt="logo" width="850">
+
+Categorical palettes:
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/mystic_mausoleum.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/dust_storm.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/golden_riches.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/shattered_mosaics.png?raw=true" alt="logo" width="850">
+<img align="right" src="https://github.com/ctross/PlvsVltra/blob/main/inst/dusk_oasis.png?raw=true" alt="logo" width="850">
 
