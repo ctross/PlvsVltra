@@ -36,7 +36,7 @@ plvs_vltra_palettes = function(palette_name, list_all=FALSE){
   included_palettes$dusk_oasis = c("#364E66", "#8A6D4D", "#5A7D76", "#B79A70", "#E2D2B1", "#5A483E")
 
   # mystic_mausoleum
-  included_palettes$mystic_mausoleum = c("#102B6C", "#8BAFDD", "#B13F0A", "#F5A516", "#16697B", "#6FC6DC", "#77140E", "#AF5249", "#390A05", "#B07B48")
+  included_palettes$mystic_mausoleum = c("#0D205C", "#507BAF", "#C5570E", "#DF913E", "#13667B", "#35ABC0", "#E39913", "#F3BB57", "#721712", "#AF5249", "#0B231A", "#4E7A65", "#431008", "#A56137")
 
   ############################################################################################ Diverging palettes
   # forest_fire
